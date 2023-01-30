@@ -1,0 +1,490 @@
+!SESSION 2023-01-29 23:46:58.637 -----------------------------------------------
+eclipse.buildId=4.26.0.20221201-1200
+java.version=17.0.5
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-01-29 23:47:00.888
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-01-29 23:47:13.836
+!MESSAGE Logback config file: /home/pedro/UNB/MiniProjeto_ControleOrcamento/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.1.0.20221015-0744.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-01-29 23:47:15.047
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-01-29 23:47:15.047
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-01-29 23:47:15.047
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:11.839
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:11.873
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:11.903
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:11.934
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:11.971
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.018
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.051
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.084
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.114
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.145
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.180
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.235
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.272
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.302
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.329
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.356
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.381
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.404
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.428
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.449
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.472
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.493
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.513
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.534
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.554
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.574
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.593
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.613
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.633
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.653
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.673
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.693
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.712
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.733
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.753
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.773
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.793
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.812
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.851
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.867
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.882
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.897
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.912
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.926
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.940
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.953
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.965
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.977
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.987
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:12.997
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.006
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.037
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.049
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.062
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.078
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.092
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.104
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.113
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.121
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.129
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.136
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.143
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.150
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.156
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.162
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.167
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.169
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.171
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.173
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.175
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2023-01-29 23:55:13.177
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Status ERROR: org.eclipse.jdt.core code=0 Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:548)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3917)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.ModuleDependenciesPage.scanModules(ModuleDependenciesPage.java:349)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.ModuleDependenciesPage.init(ModuleDependenciesPage.java:256)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.BuildPathsBlock.doUpdateUI(BuildPathsBlock.java:405)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.BuildPathsBlock.lambda$0(BuildPathsBlock.java:387)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:5040)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4520)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.runEventLoop(EventLoopProgressMonitor.java:126)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.isCanceled(EventLoopProgressMonitor.java:100)
+	at org.eclipse.core.internal.jobs.ThreadJob.isCanceled(ThreadJob.java:148)
+	at org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:280)
+	at org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:208)
+	at org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:95)
+	at org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:316)
+	at org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:124)
+	at org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2330)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2375)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2405)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.newsourcepage.DialogPackageExplorer.setSelection(DialogPackageExplorer.java:451)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.newsourcepage.DialogPackageExplorer.setInput(DialogPackageExplorer.java:428)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.newsourcepage.NewSourceContainerWorkbookPage.doUpdateUI(NewSourceContainerWorkbookPage.java:137)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:5040)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4520)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:166)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:368)
+	at org.eclipse.jface.wizard.WizardDialog.run(WizardDialog.java:1034)
+	at org.eclipse.jdt.ui.wizards.NewJavaProjectWizardPageTwo.changeToNewProject(NewJavaProjectWizardPageTwo.java:175)
+	at org.eclipse.jdt.ui.wizards.NewJavaProjectWizardPageTwo.createProvisonalProject(NewJavaProjectWizardPageTwo.java:482)
+	at org.eclipse.jdt.ui.wizards.NewJavaProjectWizardPageTwo.setVisible(NewJavaProjectWizardPageTwo.java:133)
+	at org.eclipse.jface.wizard.WizardDialog.updateForPage(WizardDialog.java:1253)
+	at org.eclipse.jface.wizard.WizardDialog.lambda$3(WizardDialog.java:1223)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.jface.wizard.WizardDialog.showPage(WizardDialog.java:1223)
+	at org.eclipse.jface.wizard.WizardDialog.nextPressed(WizardDialog.java:918)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:469)
+	at org.eclipse.jface.dialogs.Dialog.lambda$0(Dialog.java:619)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:84)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5855)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1529)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:5065)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4517)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.ui.internal.navigator.wizards.WizardShortcutAction.run(WizardShortcutAction.java:102)
+	at org.eclipse.ui.internal.views.helpers.EmptyWorkspaceHelper$1.linkActivated(EmptyWorkspaceHelper.java:281)
+	at org.eclipse.ui.forms.widgets.AbstractHyperlink.handleActivate(AbstractHyperlink.java:215)
+	at org.eclipse.ui.forms.widgets.AbstractHyperlink.handleMouseUp(AbstractHyperlink.java:309)
+	at org.eclipse.ui.forms.widgets.AbstractHyperlink.lambda$3(AbstractHyperlink.java:117)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5855)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1529)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:5065)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4517)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1440)
+!SUBENTRY 1 org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.180
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.182
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.184
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.185
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.186
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.187
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.189
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.190
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.191
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.193
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.194
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2023-01-29 23:55:13.254
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Status ERROR: org.eclipse.jdt.core code=0 Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:548)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.JavaProject.getModuleDescription(JavaProject.java:3917)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.ModuleDependenciesPage.scanModules(ModuleDependenciesPage.java:349)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.ModuleDependenciesPage.init(ModuleDependenciesPage.java:256)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.BuildPathsBlock.doUpdateUI(BuildPathsBlock.java:405)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.BuildPathsBlock.lambda$0(BuildPathsBlock.java:387)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:5040)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4520)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:166)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:368)
+	at org.eclipse.jface.wizard.WizardDialog.run(WizardDialog.java:1034)
+	at org.eclipse.jdt.ui.wizards.NewJavaProjectWizardPageTwo.changeToNewProject(NewJavaProjectWizardPageTwo.java:175)
+	at org.eclipse.jdt.ui.wizards.NewJavaProjectWizardPageTwo.createProvisonalProject(NewJavaProjectWizardPageTwo.java:482)
+	at org.eclipse.jdt.ui.wizards.NewJavaProjectWizardPageTwo.setVisible(NewJavaProjectWizardPageTwo.java:133)
+	at org.eclipse.jface.wizard.WizardDialog.updateForPage(WizardDialog.java:1253)
+	at org.eclipse.jface.wizard.WizardDialog.lambda$3(WizardDialog.java:1223)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.jface.wizard.WizardDialog.showPage(WizardDialog.java:1223)
+	at org.eclipse.jface.wizard.WizardDialog.nextPressed(WizardDialog.java:918)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:469)
+	at org.eclipse.jface.dialogs.Dialog.lambda$0(Dialog.java:619)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:84)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5855)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1529)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:5065)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4517)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.ui.internal.navigator.wizards.WizardShortcutAction.run(WizardShortcutAction.java:102)
+	at org.eclipse.ui.internal.views.helpers.EmptyWorkspaceHelper$1.linkActivated(EmptyWorkspaceHelper.java:281)
+	at org.eclipse.ui.forms.widgets.AbstractHyperlink.handleActivate(AbstractHyperlink.java:215)
+	at org.eclipse.ui.forms.widgets.AbstractHyperlink.handleMouseUp(AbstractHyperlink.java:309)
+	at org.eclipse.ui.forms.widgets.AbstractHyperlink.lambda$3(AbstractHyperlink.java:117)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5855)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1529)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:5065)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4517)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1440)
+!SUBENTRY 1 org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.255
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.256
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.257
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.259
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.260
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.261
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.262
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.264
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.265
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.266
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
+
+!ENTRY org.eclipse.jdt.core 4 0 2023-01-29 23:55:13.268
+!MESSAGE Build path contains duplicate entry: 'module-info.java' for project 'OOMiniProjetoControleOrcamento'
